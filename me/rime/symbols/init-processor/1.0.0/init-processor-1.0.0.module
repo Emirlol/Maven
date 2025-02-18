@@ -98,6 +98,26 @@
           "md5": "33bf74221cb4a1a71dfc5e0fadaa6ad9"
         }
       ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "init-processor-1.0.0-sources.jar",
+          "url": "init-processor-1.0.0-sources.jar",
+          "size": 3005,
+          "sha512": "e71f7128dddf17e6d2e67e052cdd1531c786875e9b8185b6268e039f93e826d8fbf9311fcfe0dc2367d387db645c2dd99dfa90834a9e1eebe1e1d2db49e1ad0d",
+          "sha256": "de5f87b8dbc5261b6ab9c7c683d4d62b5c5223a6bc40ac8661dea2dc28793cf8",
+          "sha1": "48c65282b777b5b71d050fd8381f07fe1099f217",
+          "md5": "58f67768c243218d767f74fc70c42fae"
+        }
+      ]
     }
   ]
 }
