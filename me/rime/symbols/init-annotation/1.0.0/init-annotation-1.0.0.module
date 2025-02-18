@@ -77,6 +77,26 @@
           "md5": "44d987d96f2f617d1fcb4827502b50a5"
         }
       ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "init-annotation-1.0.0-sources.jar",
+          "url": "init-annotation-1.0.0-sources.jar",
+          "size": 1062,
+          "sha512": "b0a0531d3c510ac951e9fed91c07066a4aa74b85490224abce4947759faa38d06a3bc998de17a24fbaf0699e913d67464f5828dd627c1bfc7a555311faf12712",
+          "sha256": "bbbbc7870bd1ee20de5ef7f44008771862b4cb9971a584cf48153a8e893b8692",
+          "sha1": "d86f978790b4e553dbe8d07f425d884c2a6e1c32",
+          "md5": "661455ab428b0a9a61e5fe7148843bf3"
+        }
+      ]
     }
   ]
 }
