@@ -1,0 +1,82 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "me.rime.symbols",
+    "module": "init-annotation",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 23,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "init-annotation-1.0.0.jar",
+          "url": "init-annotation-1.0.0.jar",
+          "size": 1463,
+          "sha512": "a94a449d355943179581c2873ef328c8acf58cfabff3f99b3755c969e0f5f6d6720e029713b4ff0821d365368644b971b518821e401779761d361296fd647e10",
+          "sha256": "3b616a162a878693648ded55e1b783cf233b527d9fc9efe48f4ee16836680b30",
+          "sha1": "1c685346a5ea9bfeb9eb21950805ceecf67d6bb7",
+          "md5": "7a8e5778adb02c807a8ec20405548328"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 23,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "init-annotation-1.0.0.jar",
+          "url": "init-annotation-1.0.0.jar",
+          "size": 1463,
+          "sha512": "a94a449d355943179581c2873ef328c8acf58cfabff3f99b3755c969e0f5f6d6720e029713b4ff0821d365368644b971b518821e401779761d361296fd647e10",
+          "sha256": "3b616a162a878693648ded55e1b783cf233b527d9fc9efe48f4ee16836680b30",
+          "sha1": "1c685346a5ea9bfeb9eb21950805ceecf67d6bb7",
+          "md5": "7a8e5778adb02c807a8ec20405548328"
+        }
+      ]
+    }
+  ]
+}
