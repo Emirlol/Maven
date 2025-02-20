@@ -39,10 +39,10 @@
           "name": "init-processor-1.0.0.jar",
           "url": "init-processor-1.0.0.jar",
           "size": 9808,
-          "sha512": "ca6e464701b0ad3de349433096d654bbe6013da69b2cbbb53b9862427031dd057d7380c93c4d9fd8d237b62d74762d4935de5694932a101f8cc9003e1b1bf3ac",
-          "sha256": "1d0878b7f6553c428d856c765a03c8fd373ecaade4f0b3d65bd134786889bd99",
-          "sha1": "05731f7bf9e8a3bb1303fbf2dcce7f609de3f326",
-          "md5": "38948848928349fd4310500962698dc7"
+          "sha512": "38916f51d8d6ee76491c90328bf00fc233cfb6fb3ebf78a99b0026fdeb865d03b7befa26356937980a37b82301f1ee9eebc55737de78e81b7dc2115db728d494",
+          "sha256": "629ad9a62cc239d5516846c1ecf3d0bfb047d128dee91f4e392cd6969af52c0d",
+          "sha1": "35696e828c1c66f23c2c923429555082523cfd86",
+          "md5": "25c234d2d003779fe4d6fda766803473"
         }
       ]
     },
@@ -99,10 +99,10 @@
           "name": "init-processor-1.0.0.jar",
           "url": "init-processor-1.0.0.jar",
           "size": 9808,
-          "sha512": "ca6e464701b0ad3de349433096d654bbe6013da69b2cbbb53b9862427031dd057d7380c93c4d9fd8d237b62d74762d4935de5694932a101f8cc9003e1b1bf3ac",
-          "sha256": "1d0878b7f6553c428d856c765a03c8fd373ecaade4f0b3d65bd134786889bd99",
-          "sha1": "05731f7bf9e8a3bb1303fbf2dcce7f609de3f326",
-          "md5": "38948848928349fd4310500962698dc7"
+          "sha512": "38916f51d8d6ee76491c90328bf00fc233cfb6fb3ebf78a99b0026fdeb865d03b7befa26356937980a37b82301f1ee9eebc55737de78e81b7dc2115db728d494",
+          "sha256": "629ad9a62cc239d5516846c1ecf3d0bfb047d128dee91f4e392cd6969af52c0d",
+          "sha1": "35696e828c1c66f23c2c923429555082523cfd86",
+          "md5": "25c234d2d003779fe4d6fda766803473"
         }
       ]
     },
@@ -119,10 +119,10 @@
           "name": "init-processor-1.0.0-sources.jar",
           "url": "init-processor-1.0.0-sources.jar",
           "size": 3005,
-          "sha512": "bba0cfaf980986cc0e4a7b01554221981fb9c60c20c7963db25ecf37bbfe3fc8f81f1c6defddb8616db23771c52ffc53420b9dd46d21ee092c91f3f999d07236",
-          "sha256": "c0e53e8023abb3015352a8d15c5d90e9a37a1544124a3aad2b4d3d8137972f5c",
-          "sha1": "6d6078bda1b7c3be12db45ee5965d73f61d9461a",
-          "md5": "4ae41d51f80b496e47fbfdc24d93ff02"
+          "sha512": "dc25acb07ccf668e8e0815282b18a9165e2c8b6c41e8a3b229ee9feca8bf59ccc12f61b277cf1bf0df4be51521d504a0c7ccfe18f2305c4a376ea075442bac12",
+          "sha256": "6c010c75c4a2f8c0bbd3b262334d01fcb03d41e3cb3eaa809590b8e9239e8c90",
+          "sha1": "7db9c58da51b976607b2278d7c91dce039e09c04",
+          "md5": "f4f99b9266b2c3a5708fc6670e6a0e8c"
         }
       ]
     }
